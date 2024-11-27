@@ -1,0 +1,3 @@
+# Trabalhando com serviços da AWS
+  Utilizei SNS para enviar e-mail para uma lista de contatos, com isso posso informar promoções de produtos, possiveis erros, recuperação de senhas...
+  Utilizei SQS para realizar a publicação de mensagens em filas para trabalhar com sistemnas assicronos
